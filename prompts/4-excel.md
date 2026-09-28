@@ -10,6 +10,6 @@ Put everything in one Excel file for the developer and the tester:
 Set every Status to Draft and freeze the header rows.
 ```
 
-One row per acceptance criterion means the tester can turn each row into a test case, and the developer can trace every check back to a rule. Claude creates the file itself, and creating files is on the Free plan too.
+One row per acceptance criterion means the tester can turn each row into a test case, and the developer can trace every check back to a rule. Claude creates the file itself.
 
 The file from the episode: [`example-kavya/outputs/Reach report card v1 requirements.xlsx`](../example-kavya/outputs)

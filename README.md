@@ -28,7 +28,7 @@ It comes from **Claude for BAs · 01** on the [Rohan J](https://www.youtube.com/
 
 - Put work data only into AI tools your company allows.
 - Kavya, her agency, the bakery and every number in the example are fictional.
-- The episode was recorded on Claude Pro with Opus 5.5. Projects, file uploads and creating files are on the Free plan too, which uses Sonnet and Haiku (checked on claude.com/pricing on 28 Sep 2026).
+- The episode was recorded with Claude Opus 5.5.
 
 ## Next
 
