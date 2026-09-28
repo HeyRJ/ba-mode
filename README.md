@@ -33,3 +33,7 @@ It comes from **Claude for BAs · 01** on the [Rohan J](https://www.youtube.com/
 ## Next
 
 Claude for QAs · 01 turns this Excel file into test cases. A QA mode repo will follow in the same way.
+
+## Licence
+
+MIT: use it, change it and share it. See [`LICENSE`](LICENSE).
