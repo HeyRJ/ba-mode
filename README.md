@@ -2,7 +2,7 @@
 
 A Claude setup for business analysts. It takes a messy client brief to requirements a developer can build and a tester can test. Claude drafts, and you make the calls.
 
-It comes from **Claude for BAs · 01** on the [Rohan J](https://www.youtube.com/@rohanbuilds-ai) YouTube channel (in Hindi). In the episode, a client's WhatsApp message and a sheet with 12 hidden traps turn into 47 clarifying questions. They then become 27 user stories with 87 Given/When/Then acceptance criteria, a field spec and 20 business rules, handed over as one Excel file.
+It comes from [**Claude for BAs · 01**](https://youtu.be/LoEkFvSc9a4) on the [Rohan J](https://www.youtube.com/@rohanbuilds-ai) YouTube channel (in Hindi). In the episode, a client's WhatsApp message and a sheet with 12 hidden traps turn into 47 clarifying questions. They then become 27 user stories with 87 Given/When/Then acceptance criteria, a field spec and 20 business rules, handed over as one Excel file.
 
 ## What's inside
 
