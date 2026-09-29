@@ -32,7 +32,7 @@ It comes from [**Claude for BAs · 01**](https://youtu.be/LoEkFvSc9a4) on the [R
 
 ## Next
 
-Claude for QAs · 01 turns this Excel file into test cases. Its setup is in [QA mode](https://github.com/HeyRJ/qa-mode).
+[Claude for QAs · 01](https://youtu.be/OTxv-_vFQf0) turns this Excel file into test cases. Its setup is in [QA mode](https://github.com/HeyRJ/qa-mode).
 
 ## Licence
 
